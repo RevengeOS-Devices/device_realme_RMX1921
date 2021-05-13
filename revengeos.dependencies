@@ -1,22 +1,13 @@
 [
   {
-    "repository": "RevengeOS-Devices/device_realme_RMX1921",
-    "target_path": "device/realme/RMX1921",
-    "branch": "r11.0",
-    "remote": "github"
-  },
-
-  {
-    "repository": "RevengeOS-Devices/kernel_realme_RMX1921",
+    "remote": "devices"
+    "repository": "kernel_realme_RMX1921",
     "target_path": "kernel/realme/RMX1921",
-    "branch": "r11.0",
-    "remote": "github"
   },
-
   {
+    "remote": "gitlab"
     "repository": "kaderbava/vendor_realme_RMX1921",
     "target_path": "vendor/realme/RMX1921",
     "branch": "r11.0",
-    "remote": "gitlab"
   }
 ]
